@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492987434 source:c:\users\clad-\documents\consoletest\testarraydecomposeintofloatotherway\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
